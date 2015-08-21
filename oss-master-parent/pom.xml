@@ -80,13 +80,6 @@
                                 <groupId>com.puppycrawl.tools</groupId>
                                 <artifactId>checkstyle</artifactId>
                                 <version>6.9</version>
-                                <exclusions>
-                                    <!-- MCHECKSTYLE-156 -->
-                                    <exclusion>
-                                        <groupId>com.sun</groupId>
-                                        <artifactId>tools</artifactId>
-                                    </exclusion>
-                                </exclusions>
                             </dependency>
                         </dependencies>
                     </plugin>
