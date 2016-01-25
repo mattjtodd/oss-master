@@ -47,7 +47,7 @@
     </developers>
 
     <prerequisites>
-        <maven>3.3.3</maven>
+        <maven>3.3.9</maven>
     </prerequisites>
 
     <scm>
@@ -215,7 +215,7 @@
                                 <configuration>
                                     <rules>
                                         <requireMavenVersion>
-                                            <version>3.3.3</version>
+                                            <version>3.3.9</version>
                                         </requireMavenVersion>
                                         <requireJavaVersion>
                                             <version>1.8</version>
